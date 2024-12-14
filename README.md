@@ -152,3 +152,9 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
 - [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For their Source Codes.
 - **Special Thanks** to [SPiDER 🇮🇳](https://github.com/Surendra9123) for invaluable assistance in resolving the IP ban issue.
+  <ul>
+  <li><a href="https://render.com/" style="color: #B10DC9;">render.com {reccomended}</a></li>
+    <li><a href="https://replit.com/" style="color: #FF4136;">replit.com</a></li>
+    <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
+    <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
+  </ul>
